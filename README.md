@@ -13,7 +13,7 @@ INSTRUCTIONS:
 	2.3. These folders will be created in the same directory as where the ".py" or ".exe" is located.
 	2.4. If you want to avoid the automatic creation, you may create the folders yourself, but it should have the same name.
 
-3.The folder "Shopee Delivery" is already created and provided, with test files.
+3. The folder "Shopee Delivery" is already created and provided, with test files.
 	These files include: 
 		2 text file, one small "hello.txt" file and one file with lots of content "Bee_movie_script.txt" file
 		1 mp3/audio file, Doughnut.mp3, it is the instrumentals for the song Doughnut by K-pop girl group Twice <3
