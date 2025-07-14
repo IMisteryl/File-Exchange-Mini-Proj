@@ -17,17 +17,7 @@ INSTRUCTIONS:
    
    	2.4. If you want to avoid the automatic creation, you may create the folders yourself, but it should have the same name.
 
-4. The folder "Shopee Delivery" is already created and provided, with test files.
-   
-   	These files include:
-   
-   		2 text file, one small "hello.txt" file and one file with lots of content "Bee_movie_script.txt" file
-   
-   		1 mp3/audio file, Doughnut.mp3, it is the instrumentals for the song Doughnut by K-pop girl group Twice <3
-   
-   		3 images, 1 .jpg file named "jojer", 2 bitmap files that I found online
-   
-	totaling 6 files
+4. The folder "Shopee Delivery" should be created.
 
 6. You may add/use your own files
    
